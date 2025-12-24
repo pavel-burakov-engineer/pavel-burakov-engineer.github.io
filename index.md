@@ -5,7 +5,7 @@ title: Portfoliio Design Engineer
 
 ![Banner](images/banner.jpg)
 
-# Pavel Burakov
+![](images/me.jpg) # Pavel Burakov 
 ### Инженер-конструктор
 
 Проектирование машин и металлоконструкций.  
