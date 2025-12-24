@@ -3,7 +3,7 @@ layout: default
 title: Портфолио инженера-конструктора
 ---
 
-![Banner](images/banner.png)
+![Banner](images/banner.jpg)
 
 # Иванов Иван
 ### Инженер-конструктор
