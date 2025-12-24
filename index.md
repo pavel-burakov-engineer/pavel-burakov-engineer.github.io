@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Портфолио инженера-конструктора
+title: Portfoliio Design Engineer
 ---
 
 ![Banner](images/banner.jpg)
 
-# Иванов Иван
+# Pavel Burakov
 ### Инженер-конструктор
 
 Проектирование машин и металлоконструкций.  
