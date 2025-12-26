@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfoliio Design Engineer
+title: Design Engineer Portfolio 
 ---
 
 ![Banner](images/banner.jpg)
