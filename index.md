@@ -16,7 +16,9 @@ Solidworks, Keyshot, MS Office
 
 # 2024 
 ## Telescopic handler cabin
-![Frame](images/Telescopic handler cabin.jpg)
+![Frame](images/Telescopic_handler_cabin.jpg) ![Frame](images/Telescopic_handler_cabin1.jpg)
+![Frame](images/Telescopic_handler_cabin2.jpg)
+![Frame](images/Telescopic_handler_cabin3.jpg)
 
 ### What`s done: 
 Concepting, suitable automotive components searching, designing of details, assemblings, and systemes. Everyday coordination of decisions with related development departments.
