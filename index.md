@@ -4,7 +4,7 @@ title: Design Engineer Portfolio
 ---
 
 # 2025 
-## Hydraulic Level gauge verification stand
+## Hydraulic Level gauge verification stand 1
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -12,6 +12,17 @@ title: Design Engineer Portfolio
   </div>
   <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/zhiz.jpg" alt="Second image description" style="max-width: 100%; width: 550px; height: auto;">
+  </div>
+</div>
+
+## Hydraulic Level gauge verification stand 2
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <img src="images/main_view.gif" style="max-width: 100%; width: 550px; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <img src="images/pipe.gif" style="max-width: 100%; width: 550px; height: auto;">
   </div>
 </div>
 
