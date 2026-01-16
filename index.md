@@ -81,7 +81,7 @@ Solidworks, MS Office, Hand tools
 ---
 
 # 2022-2023 
-## 1. Dozer cabin and its` climate system
+## 1. Dozer cabin and its` climate control system
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -117,8 +117,10 @@ Solidworks, MS Office, Hand tools
 </div>
 
 ### What`s done: 
-#### Cabin: Designing of some details, assemblings. 3D modeling, drawings, author control of the producing and assembling process.
-#### Cabin climate system: Concepting, suitable automotive components searching, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
+#### Cabin:
+Designing of some details, assemblings. 3D modeling, drawings, author control of the producing and assembling process.
+#### Cabin climate control system: 
+Concepting, suitable automotive components searching, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
 Assembled completely by my own hands.
 ### Main software:
 Solidworks, MS Office, Hand tools
