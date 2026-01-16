@@ -4,7 +4,7 @@ title: Design Engineer Portfolio
 ---
 
 # 2025 
-## 1. Hydraulic Level gauge verification stand №1
+## 1. Hydraulic Level gauge verification stand No.1
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -15,7 +15,7 @@ title: Design Engineer Portfolio
   </div>
 </div>
 
-## 2. Hydraulic Level gauge verification stand №2
+## 2. Hydraulic Level gauge verification stand No.2
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -23,8 +23,8 @@ title: Design Engineer Portfolio
   </div>
 </div>
 
-### What`s done: 
-Concepting, equipment selection, hydraulic system design and calculations. 3D modeling, drawings and visualization. Author control of the assembling process.
+### What was done: 
+Concept development, equipment selection, hydraulic system design and calculations. 3D modeling, drawings and visualization. Author supervision of the assembly process.
 ### Main software:
 Solidworks, Keyshot, MS Office
 
@@ -48,10 +48,8 @@ Solidworks, Keyshot, MS Office
   </div>
 </div>
 
-### What`s done: 
-Market analysis, concepting, suitable automotive components searching, designing of details, assemblings, and systems.
-Everyday interaction with other development departments.
-3D modeling, drawings.
+### What was done: 
+Market analysis, concept development, sourcing suitable automotive components, design of parts, assemblies, and systems. Daily collaboration with other development departments. 3D modeling and technical drawings.
 ### Main software:
 Solidworks, MS Office
 
@@ -72,16 +70,15 @@ Solidworks, MS Office
   </div>
 </div>
 
-### What`s done: 
-Concepting, designing of details, assemblings. 3D modeling, drawings.
-Author control of the producing process. Assembled completely by my own hands.
+### What was done: 
+Concept development, design of parts and assemblies. 3D modeling and technical drawings. Author supervision of the manufacturing process. Assembled fully by myself.
 ### Main software:
 Solidworks, MS Office, Hand tools
 
 ---
 
 # 2022-2023 
-## 1. Dozer cabin and its` climate control system
+## 1. Dozer cabin and its climate control system
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -116,12 +113,11 @@ Solidworks, MS Office, Hand tools
   </div>
 </div>
 
-### What`s done: 
+### What was done: 
 #### Cabin:
-Designing of some details, assemblings. 3D modeling, drawings, author control of the producing and assembling process.
+Design of some components and assemblies. 3D modeling, technical drawings, and author supervision of manufacturing and assembly.
 #### Cabin climate control system: 
-Concepting, suitable automotive components searching, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
-Assembled and installed completely by my own hands.
+Concept development, sourcing suitable automotive components, design of parts and assemblies. 3D modeling, technical drawings, and author supervision of manufacturing. Fully assembled and installed by myself.
 ### Main software:
 Solidworks, MS Office, Hand tools
 
@@ -136,8 +132,8 @@ Solidworks, MS Office, Hand tools
   </div>  
 </div>
 
-### What`s done: 
-Concepting, designing. 3D modeling, drawings, author control of the producing process.
+### What was done: 
+Concept development and design. 3D modeling, technical drawings, and author supervision of the manufacturing process.
 ### Main software:
 Solidworks, MS Office
 
@@ -161,9 +157,8 @@ Solidworks, MS Office
   </div>  
 </div>
 
-### What`s done: 
-Aerodynamic calculations, selection of pipes diameteres, designing of details, assemblings.
-3D modeling, details drawings, plans and sections of buildings. Author control of the assembling process.
+### What was done: 
+Aerodynamic calculations, pipe diameter selection, design of parts and assemblies. 3D modeling, detailed drawings, building plans and sections. Author supervision of the installation process.
 ### Main software:
 Autocad, Solidworks,  MS Office
 
@@ -178,8 +173,7 @@ Autocad, Solidworks,  MS Office
   </div> 
 </div>
 
-### What`s done: 
-Simple calculations, selection of pipes diameters, designing of details, assemblings.
-3D modeling, details drawings, plans and sections of buildings. Author control of the assembling process.
+### What was done: 
+Basic calculations, pipe diameter selection, design of parts and assemblies. 3D modeling, detailed drawings, building plans and sections. Author supervision of the installation process.
 ### Main software:
 Autocad, Solidworks,  MS Office
