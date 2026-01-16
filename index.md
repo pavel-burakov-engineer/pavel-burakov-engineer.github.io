@@ -24,7 +24,7 @@ title: Design Engineer Portfolio
 </div>
 
 ### What`s done: 
-Concept, equipment selection, hydraulic system design and calculations. 3D modeling, drawings and visualization. Author control of the assembling process.
+Concepting, equipment selection, hydraulic system design and calculations. 3D modeling, drawings and visualization. Author control of the assembling process.
 ### Main software:
 Solidworks, Keyshot, MS Office
 
@@ -49,7 +49,7 @@ Solidworks, Keyshot, MS Office
 </div>
 
 ### What`s done: 
-Market analysis, concepting, suitable automotive components searching, designing of details, assemblings, and systemes.
+Market analysis, concepting, suitable automotive components searching, designing of details, assemblings, and systems.
 Everyday interaction with other development departments.
 3D modeling, drawings.
 ### Main software:
@@ -117,8 +117,8 @@ Solidworks, MS Office, Hand tools
 </div>
 
 ### What`s done: 
-Cabin: Designing of some details, assemblings. 3D modeling, drawings, author control of the producing and assembling process.
-Cabin climate system: Concepting, suitable automotive components searching, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
+#### Cabin: Designing of some details, assemblings. 3D modeling, drawings, author control of the producing and assembling process.
+#### Cabin climate system: Concepting, suitable automotive components searching, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
 Assembled completely by my own hands.
 ### Main software:
 Solidworks, MS Office, Hand tools
@@ -135,14 +135,14 @@ Solidworks, MS Office, Hand tools
 </div>
 
 ### What`s done: 
-Concepting, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
+Concepting, designing. 3D modeling, drawings, author control of the producing process.
 ### Main software:
 Solidworks, MS Office
 
 ---
 
 # 2020-2022 
-## 1. Aspiration and ventilation systemes
+## 1. Aspiration and ventilation systems
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -177,7 +177,7 @@ Autocad, Solidworks,  MS Office
 </div>
 
 ### What`s done: 
-Simple calculations, selection of pipes diameteres, designing of details, assemblings.
+Simple calculations, selection of pipes diameters, designing of details, assemblings.
 3D modeling, details drawings, plans and sections of buildings. Author control of the assembling process.
 ### Main software:
 Autocad, Solidworks,  MS Office
