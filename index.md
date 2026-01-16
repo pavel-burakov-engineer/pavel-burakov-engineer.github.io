@@ -121,7 +121,7 @@ Solidworks, MS Office, Hand tools
 Designing of some details, assemblings. 3D modeling, drawings, author control of the producing and assembling process.
 #### Cabin climate control system: 
 Concepting, suitable automotive components searching, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
-Assembled completely by my own hands.
+Assembled and installed completely by my own hands.
 ### Main software:
 Solidworks, MS Office, Hand tools
 
