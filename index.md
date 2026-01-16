@@ -18,10 +18,7 @@ title: Design Engineer Portfolio
 ## Hydraulic Level gauge verification stand 2
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="flex: 1; min-width: 400px; text-align: center;">
-    <img src="images/main_veiw.gif" style="max-width: 100%; width: 450px; height: auto;">
-  </div>
-  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/pipe.gif" style="max-width: 100%; width: 550px; height: auto;">
   </div>
 </div>
