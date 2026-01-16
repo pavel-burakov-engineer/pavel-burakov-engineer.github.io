@@ -4,7 +4,7 @@ title: Design Engineer Portfolio
 ---
 
 # 2025 
-## 1.Hydraulic Level gauge verification stand 1
+## 1. Hydraulic Level gauge verification stand №1
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -15,7 +15,7 @@ title: Design Engineer Portfolio
   </div>
 </div>
 
-## 2.Hydraulic Level gauge verification stand 2
+## 2. Hydraulic Level gauge verification stand №2
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -31,7 +31,7 @@ Solidworks, Keyshot, MS Office
 ---
 
 # 2024 
-## 1.Telescopic handler cabin
+## 1. Telescopic loader cabin
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -49,12 +49,13 @@ Solidworks, Keyshot, MS Office
 </div>
 
 ### What`s done: 
-Concepting, suitable automotive components searching, designing of details, assemblings, and systemes. Everyday coordination of decisions with related development departments.
-3D modeling, drawings, author control of the assembling process.
+Market analysis, concepting, suitable automotive components searching, designing of details, assemblings, and systemes.
+Everyday interaction with other development departments.
+3D modeling, drawings.
 ### Main software:
 Solidworks, MS Office
 
-## 2.Remote machines control stand
+## 2. Remote machine control stand
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -73,15 +74,14 @@ Solidworks, MS Office
 
 ### What`s done: 
 Concepting, designing of details, assemblings. 3D modeling, drawings.
-Author control of the producing process. Assembling by my own hands.
+Author control of the producing process. Assembled completely by my own hands.
 ### Main software:
-Solidworks, MS Office
-Hand tools
+Solidworks, MS Office, Hand tools
 
 ---
 
 # 2022-2023 
-## 1.Dozer cabin and climate system
+## 1. Dozer cabin and its` climate system
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -117,12 +117,13 @@ Hand tools
 </div>
 
 ### What`s done: 
-Concepting, suitable automotive components searching, designing of details, assemblings, and systemes. Everyday coordination of decisions with related development departments.
-3D modeling, drawings, author control of the assembling process.
+Cabin: Designing of some details, assemblings. 3D modeling, drawings, author control of the producing and assembling process.
+Cabin climate system: Concepting, suitable automotive components searching, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
+Assembled completely by my own hands.
 ### Main software:
-Solidworks, MS Office
+Solidworks, MS Office, Hand tools
 
-## 2.Cabless bulldozer cover
+## 2. Cabless bulldozer cover
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -134,15 +135,14 @@ Solidworks, MS Office
 </div>
 
 ### What`s done: 
-Concepting, suitable automotive components searching, designing of details, assemblings, and systemes. Everyday coordination of decisions with related development departments.
-3D modeling, drawings, author control of the assembling process.
+Concepting, designing of details and assemblings. 3D modeling, drawings, author control of the producing process.
 ### Main software:
 Solidworks, MS Office
 
 ---
 
 # 2020-2022 
-## 1.Aspiration and ventilation systemes
+## 1. Aspiration and ventilation systemes
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -160,12 +160,12 @@ Solidworks, MS Office
 </div>
 
 ### What`s done: 
-Concepting, suitable automotive components searching, designing of details, assemblings, and systemes. Everyday coordination of decisions with related development departments.
-3D modeling, drawings, author control of the assembling process.
+Aerodynamic calculations, selection of pipes diameteres, designing of details, assemblings.
+3D modeling, details drawings, plans and sections of buildings. Author control of the assembling process.
 ### Main software:
 Autocad, Solidworks,  MS Office
 
-## 2.Explosion venting devices exhaust
+## 2. Explosion venting devices exhaust
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -177,7 +177,7 @@ Autocad, Solidworks,  MS Office
 </div>
 
 ### What`s done: 
-Concepting, suitable automotive components searching, designing of details, assemblings, and systemes. Everyday coordination of decisions with related development departments.
-3D modeling, drawings, author control of the assembling process.
+Simple calculations, selection of pipes diameteres, designing of details, assemblings.
+3D modeling, details drawings, plans and sections of buildings. Author control of the assembling process.
 ### Main software:
 Autocad, Solidworks,  MS Office
