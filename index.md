@@ -8,7 +8,7 @@ title: Design Engineer Portfolio
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1; min-width: 400px; text-align: center;">
-    <img src="images/zhiz1.jpgf" alt="Frame" style="max-width: 100%; width: 550px; height: auto;">
+    <img src="images/zhiz1.jpg" alt="Frame" style="max-width: 100%; width: 550px; height: auto;">
   </div>
   <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/zhiz.jpg" alt="Second image description" style="max-width: 100%; width: 550px; height: auto;">
