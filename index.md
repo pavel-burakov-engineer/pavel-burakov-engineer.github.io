@@ -4,7 +4,7 @@ title: Design Engineer Portfolio
 ---
 
 # 2025 
-## Hydraulic Level gauge verification stand 1
+## 1.Hydraulic Level gauge verification stand 1
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -15,7 +15,7 @@ title: Design Engineer Portfolio
   </div>
 </div>
 
-## Hydraulic Level gauge verification stand 2
+## 2.Hydraulic Level gauge verification stand 2
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -31,7 +31,7 @@ Solidworks, Keyshot, MS Office
 ---
 
 # 2024 
-## Telescopic handler cabin
+## 1.Telescopic handler cabin
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -54,7 +54,7 @@ Concepting, suitable automotive components searching, designing of details, asse
 ### Main software:
 Solidworks, MS Office
 
-## Remote machines control stand
+## 2.Remote machines control stand
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -81,7 +81,7 @@ Hand tools
 ---
 
 # 2022-2023 
-## Dozer cabin and climate system
+## 1.Dozer cabin and climate system
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -122,7 +122,7 @@ Concepting, suitable automotive components searching, designing of details, asse
 ### Main software:
 Solidworks, MS Office
 
-## Cabless bulldozer cover
+## 2.Cabless bulldozer cover
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -142,7 +142,7 @@ Solidworks, MS Office
 ---
 
 # 2020-2022 
-## Aspiration and ventilation systemes
+## 1.Aspiration and ventilation systemes
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
@@ -165,7 +165,7 @@ Concepting, suitable automotive components searching, designing of details, asse
 ### Main software:
 Autocad, Solidworks,  MS Office
 
-## Explosion venting devices exhaust
+## 2.Explosion venting devices exhaust
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="flex: 1; min-width: 400px; text-align: center;">
