@@ -52,7 +52,30 @@ Solidworks, Keyshot, MS Office
 Concepting, suitable automotive components searching, designing of details, assemblings, and systemes. Everyday coordination of decisions with related development departments.
 3D modeling, drawings, author control of the assembling process.
 ### Main software:
-Solidworks, Keyshot, MS Office
+Solidworks, MS Office
+
+## Remote machines control stand
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <div style="flex: 1; min-width: 400px; text-align: center;">
+    <img src="images/VRstand.jpg" style="max-width: 100%; width: 550px; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <img src="images/VRstand1.jpg" style="max-width: 100%; width: 550px; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <img src="images/VRstand2.jpg" style="max-width: 100%; width: 550px; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <img src="images/VRstand3.jpg" style="max-width: 100%; width: 550px; height: auto;">
+  </div>
+</div>
+
+### What`s done: 
+Concepting, designing of details, assemblings.
+3D modeling, drawings, author control of the assembling process.
+### Main software:
+Solidworks, MS Office
 
 ---
 
