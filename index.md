@@ -5,7 +5,15 @@ title: Design Engineer Portfolio
 
 # 2025 
 ## Hydraulic Level gauge verification stand
-![Frame](images/Pipe.gif)
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="images/Pipe.gif" alt="Frame" style="max-width: 100%; width: 450px; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="images/pic2.jpg" alt="Second image description" style="max-width: 100%; width: 450px; height: auto;">
+  </div>
+</div>
 
 ### What`s done: 
 Concept, equipment selection, hydraulic system design, and calculations. 3D modeling, drawings and visualization. Author control of the assembling process.
