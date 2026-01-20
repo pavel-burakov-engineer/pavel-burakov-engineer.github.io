@@ -40,13 +40,7 @@ Solidworks, Keyshot, MS Office
   <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/Telescopic_handler_cabin1.jpg" style="max-width: 100%; width: 550px; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 400px; text-align: center;">
-    <img src="images/Telescopic_handler_cabin2.jpg" style="max-width: 100%; width: 550px; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 400px; text-align: center;">
-    <img src="images/Telescopic_handler_cabin3.jpg" style="max-width: 100%; width: 550px; height: auto;">
-  </div>
-</div>
 
 ### What was done: 
 Market analysis, concept development, sourcing suitable automotive components, design of parts, assemblies, and systems. Daily collaboration with other development departments. 3D modeling and technical drawings.
@@ -84,19 +78,13 @@ Solidworks, MS Office, Hand tools
     <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/01_Cabin.JPG" style="max-width: 100%; width: 550px; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 400px; text-align: center;">
-    <img src="images/02_Cabin.JPG" style="max-width: 100%; width: 550px; height: auto;">
-  </div>
-  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/03_Cabin копия.jpg" style="max-width: 100%; width: 550px; height: auto;">
   </div>
   <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/04_dozer climat.jpg" style="max-width: 100%; width: 550px; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 400px; text-align: center;">
-    <img src="images/05_dozer climat.jpg" style="max-width: 100%; width: 550px; height: auto;">
-  </div>
-  <div style="flex: 1; min-width: 400px; text-align: center;">
+    <div style="flex: 1; min-width: 400px; text-align: center;">
     <img src="images/06_dozer climat.jpg" style="max-width: 100%; width: 550px; height: auto;">
   </div>
   <div style="flex: 1; min-width: 400px; text-align: center;">
